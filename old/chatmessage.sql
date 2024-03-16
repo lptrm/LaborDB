@@ -1,0 +1,12 @@
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('Hallo Admin, können Sie mir bitte bei einer Angelegehheit behiilflich sein?', '2023-12-18 21:24:14', 'test@ccommunity.de', 'admin@ccommnity.de');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('Sehr geehrte Frau testname, gerne würde ich mir en Artikel anschauen.', '2023-12-18 21:24:46', 'test@ccommunity.de', 'etst@ada.acom');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('Bitte geben Sie mir eine Gute Note :)', '2023-12-18 21:25:05', 'test@ccommunity.de', 'gerald.permantier@hs-heilbronn.de');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('Hey, ist das Fahrrad noch zu haben?', '2023-12-18 21:25:42', 'test@ccommunity.de', 'jobernberger@stud.hs-heilbronn.de');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('Hallo! Ich interessiere mich für den Couchtisch, den Sie auf eBay Kleinanzeigen anbieten. Ist er noch verfügbar?', '2023-12-18 21:26:44', 'test@ccommunity.de', 'provider@ccommunity.de');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('Guten Tag! Ich habe Interesse an Ihrem Fahrrad, aber der Preis ist etwas über meinem Budget. Wären Sie bereit, darüber zu verhandeln?', '2023-12-18 21:26:58', 'test@ccommunity.de', 'root@0oo0.dev');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('leider nicht mehr :(', '2023-12-18 21:29:50', 'etst@ada.acom', 'test@ccommunity.de');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('und..?', '2023-12-18 21:31:08', 'test@ccommunity.de', 'gerald.permantier@hs-heilbronn.de');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('schade', '2023-12-18 22:12:49', 'test@ccommunity.de', 'etst@ada.acom');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES (':(', '2023-12-18 22:33:48', 'test@ccommunity.de', 'etst@ada.acom');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('', '2023-12-19 13:21:52', 'test@ccommunity.de', 'etst@ada.acom');
+INSERT INTO labswp24ccommunity.chatmessage (Content, Time, UserEmailFrom, UserEmailTo) VALUES ('Ich glaube das wird was.', '2023-12-21 15:18:29', 'test@ccommunity.de', 'gerald.permantier@hs-heilbronn.de');
